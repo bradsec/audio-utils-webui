@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Audio Utils WebUI",
+        "license": "LICENSE",
+        "github": "github.com/bradsec/audio-utils-webui"
+    },
+    {
+        "name": "Demucs",
+        "license": "LICENSE_demucs.txt",
+        "github": "github.com/facebookresearch/demucs"
+    },
+    {
+        "name": "FFmpeg",
+        "license": "LICENSE_ffmpeg.txt",
+        "github": "github.com/FFmpeg/FFmpeg"
+    },
+    {
+        "name": "Audio Slicer",
+        "license": "LICENSE_audioslicer.txt",
+        "github": "github.com/openvpi/audio-slicer"
+    },
+    {
+        "name": "OpenAI Whisper",
+        "license": "LICENSE_whisper.txt",
+        "github": "github.com/openai/whisper"
+    },
+    {
+        "name": "Gradio",
+        "license": "LICENSE_gradio.txt",
+        "github": "github.com/gradio-app/gradio" 
+    }
+
+]
+
